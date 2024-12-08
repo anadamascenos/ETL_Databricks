@@ -1,0 +1,4 @@
+store_id,store_name,total_orders,total_revenue,total_items_sold,remaining_stock
+1,Santa Cruz Bikes,1006,1790041.0499999824,1516,12975
+3,Rowlett Bikes,521,962548.4100000038,783,8283
+2,Baldwin Bikes,3195,5825901.849999999,4779,40444
